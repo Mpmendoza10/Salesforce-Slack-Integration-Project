@@ -23,12 +23,12 @@ Salesforce & Slack Integration <br/>
 Install Salesorce for Slack and Grant Permissions  </b><br/>
 ![InstallSF4Slack](https://user-images.githubusercontent.com/115415148/196343655-b875ec7b-080e-4fe2-9faf-c697d567a44f.jpg)
 <br />
+<br /><b>
+Create Custom Alert and Add Slack to the User Interface </b><br/>
+![CreateCustomAlert](https://user-images.githubusercontent.com/115415148/196560739-caedc046-4df7-46c0-bdd4-dd8727333edd.jpg)
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+<br /><b>
+Automate Slack Messages  </b><br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
