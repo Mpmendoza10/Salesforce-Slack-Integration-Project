@@ -19,9 +19,9 @@ Salesforce & Slack Integration <br/>
 
 ![SlackIntegrationProject](https://user-images.githubusercontent.com/115415148/196342681-ee129f02-bb33-4da7-93a8-c929a40086cb.jpg)
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><b>
+Install Salesorce for Slack and Grant Permissions  </b><br/>
+![InstallSF4Slack](https://user-images.githubusercontent.com/115415148/196343655-b875ec7b-080e-4fe2-9faf-c697d567a44f.jpg)
 <br />
 <br />
 Enter the number of passes: <br/>
