@@ -10,13 +10,14 @@ Working with MTBF Consulting clients come to us to resolve business issues such 
 
 <h2>Environments Used </h2>
 
-- <b>Salesforce Developer Environment</b> (21H2)
+- <b>Salesforce Developer Environment</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Salesforce & Slack Integration <br/>
-<img src="[img]https://i.imgur.com/1hrjcXY.jpg[/img]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![SlackIntegrationProject](https://user-images.githubusercontent.com/115415148/196342681-ee129f02-bb33-4da7-93a8-c929a40086cb.jpg)
 <br />
 <br />
 Select the disk:  <br/>
